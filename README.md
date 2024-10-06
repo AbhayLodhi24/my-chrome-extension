@@ -7,12 +7,12 @@ A simple Chrome web plugin that extracts product information from a fashion e-co
 - JavaScript
 
 ## Plugin Functionality 
-• Plugin Functionality: 
+### Plugin Functionality: 
 Extract Product Information: When a user is on a product page of the chosen fashion website, the plugin should be able to extract the following product details:
 - Product Name
 - Product Price
-- Image 
-• Popup Interface:
+- Image
+### Popup Interface:
  Create a basic popup Ul that opens when the plugin icon is clicked. This UI should display the extracted product details.
 
 ## Installation and Testing
@@ -30,5 +30,5 @@ Extract Product Information: When a user is on a product page of the chosen fash
 ![c3](https://github.com/user-attachments/assets/1d011dea-18bf-4909-8abd-00029241dfd6)
 
 ## Disclaimer
-Its currently work well will zara only .
-For using it for H&M content.js file has to be modified .
+- Its currently working  well with Zara only .
+- For using it for H&M content.js file has to be modified .
